@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Cliente\Desktop\Faculdade\periodo 7\Computação Grafica\Trabalho pratico 2\Lab19\Multi\x64\Debug\Multi.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Cliente\Desktop\Faculdade\periodo 7\Computação Grafica\Trabalho pratico 2\Lab19\Multi\Multi\Shaders\Pixel.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Cliente\Desktop\Faculdade\periodo 7\Computação Grafica\Trabalho pratico 2\Lab19\Multi\Multi\Shaders\Vertex.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
